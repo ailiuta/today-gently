@@ -1,6 +1,6 @@
 # Today, gently
 
-A small daily planner: choose up to three priorities, park other tasks for another day, and check off what you finish. A seven-day history summarizes planned days, completed priorities, and completion rate, with a chart of priorities set and completed each day. Tasks and history stay in the browser on each device; no account or server is involved. The app caches for offline use after its first visit.
+A small daily planner: choose up to three priorities, park other tasks for another day, and check off what you finish. A seven-day history summarizes planned days, completed priorities, completion rate, and your consecutive-day goal streak, with a chart of priorities set and completed each day. Optional 8am and 8pm browser reminders work while the app is open and running. Tasks and history stay in the browser on each device; no account or server is involved. The app caches for offline use after its first visit.
 
 ## Use on a phone or laptop
 
@@ -10,4 +10,4 @@ You can also open `index.html` directly to use it in a browser, though installin
 
 ## Privacy
 
-Tasks and history are stored in that browser's local storage. They are not synced between devices or sent to a server. Clearing browser data removes them.
+Tasks, history, and reminder settings are stored in that browser's local storage. They are not synced between devices or sent to a server. Browser reminders cannot run while the app is fully closed. Clearing browser data removes them.
