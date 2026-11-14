@@ -1,6 +1,6 @@
 # Today, gently
 
-A small daily planner: choose up to three priorities, park other tasks for another day, and check off what you finish. A seven-day history summarizes planned days, completed priorities, and completion rate. Tasks and history stay in the browser on each device; no account or server is involved. The app caches for offline use after its first visit.
+A small daily planner: choose up to three priorities, park other tasks for another day, and check off what you finish. A seven-day history summarizes planned days, completed priorities, and completion rate, with a chart of priorities set and completed each day. Tasks and history stay in the browser on each device; no account or server is involved. The app caches for offline use after its first visit.
 
 ## Use on a phone or laptop
 
